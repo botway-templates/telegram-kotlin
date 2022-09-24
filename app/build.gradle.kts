@@ -28,7 +28,7 @@ dependencies {
 
     implementation("net.mamoe.yamlkt:yamlkt:0.10.2")
 
-    implementation("com.beust:klaxon:5.5")
+    implementation("com.beust:klaxon:5.6")
 }
 
 application {
