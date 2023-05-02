@@ -25,7 +25,7 @@ dependencies {
     
     implementation("io.github.kotlin-telegram-bot.kotlin-telegram-bot:telegram:6.0.7")
 
-    implementation("net.mamoe.yamlkt:yamlkt:0.12.0")
+    implementation("net.mamoe.yamlkt:yamlkt:0.13.0")
 
     implementation("com.beust:klaxon:5.6")
 }
