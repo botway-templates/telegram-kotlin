@@ -23,7 +23,7 @@ dependencies {
 
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit")
     
-    implementation("io.github.kotlin-telegram-bot.kotlin-telegram-bot:telegram:6.0.7")
+    implementation("io.github.kotlin-telegram-bot.kotlin-telegram-bot:telegram:6.1.0")
 
     implementation("net.mamoe.yamlkt:yamlkt:0.13.0")
 
